@@ -17,18 +17,16 @@ process.stdin.on('end', function() {
 });
 
 function readLine() {
-  console.log('Hi from readline()!')
-  console.log('inputString[currentLine++]: ', inputString[currentLine++])
     return inputString[currentLine++];
 }
  */
+
+
 /*
  * Complete the 'miniMaxSum' function below.
  *
  * The function accepts INTEGER_ARRAY arr as parameter.
  */
-
-const myArray = [2,4,3,1]
 
 function miniMaxSum(arr) {
   let sortedArray = []
@@ -67,18 +65,19 @@ function miniMaxSum(arr) {
   
   console.log(minSum, maxSum)
 }
-
-miniMaxSum(myArray)
-
-//--------------------------------------------------------
 /* 
 function main() {
 
-    // const arr = readLine().replace(/\s+$/g, '').split(' ').map(arrTemp => parseInt(arrTemp, 10));
-    const arr = readLine().trim().split(' ').map(arrTemp => parseInt(arrTemp, 10));
-    console.log('arr: ', arr)
+    const arr = readLine().replace(/\s+$/g, '').split(' ').map(arrTemp => parseInt(arrTemp, 10));
+
     miniMaxSum(arr);
 }
 
 main()
  */
+
+
+
+const myArr = [1,2,3,4,5]
+
+miniMaxSum(myArr)
