@@ -1,4 +1,8 @@
-# Hacker Rank - 1 Month Preparation Kit
+## Various Coding Problems
+
+[1. Sliding Window](./various-problems/sliding-windows.md)
+
+## Hacker Rank - 1 Month Preparation Kit
 
 ### Week 1
 
