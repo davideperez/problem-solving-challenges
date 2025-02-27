@@ -1,6 +1,6 @@
 # Hacker Rank - 1 Month Preparation Kit
 
-### Week 1
+## Week 1
 
 [1. Plus Minus](./week-1/01-numbers-ratios/)
 [2. Mini-Max Sum](./week-1/02-min-max-sum/minMaxSum.md)
@@ -14,3 +14,11 @@
 [10. Permuting Two Arrays](./week-1/10-Permuting%20Two%20Arrays/permuting-two-arrays.md)
 [11. Subarray Division 1](./week-1/11-subarray-division-1/subarray-division-1.md)
 [12. XOR Strings 2](./week-1/12-XOR-strings-2/xor-strings-2.md)
+
+## Week 2
+
+
+
+## Week 3
+
+[1. The Bomberman Game](./week-2/)
